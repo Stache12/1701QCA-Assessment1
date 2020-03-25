@@ -50,47 +50,33 @@ This is the original project that my assesment was based off of.
 ## Interaction flowchart ##
 
 ![Image](notes1.jpg)
-![Image](code.png)
 
 ## Process documentation
 
-the process involved taking the initial project of the timing gates and adjusting it 
+The process involved taking the initial project of the timing gates and adjusting it to be more precise and actualy calculate the speed rather than just the time. the speed gates also must be able to calculate the speed of objects other than a car. The initial idea was to use a light sensor to detect when the object goes past. However, the light sensors were also far too inacurate and after going over multiple ideas we finaly came up with a mechanism that might work. it uses buttons instead of light sensors and uses a cut up skewer to reach the button.
 
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
+![Image](code.png)
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
-
+speed gates
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+the speed gates measure the speed of small objects passing through. the speed gates are too imprecise for scientific use, however, they could make a fun toy for young children interested in science or playing with toy cars. the timng gates require a small ofject to pass the two pannels and press them down, so it can be used by children to challenge themselves or their friends to roll objects across the board.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
-
-### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](image1)
+![Image](image2)
+![Image](image3)
+![Image](image4)
+![Image](image5)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+the project went very well in my opinion. there wern't too many issues, however, i discovered that the buttons aren't pressed if the object goes over the switches too fast and if you roll an object too slow it may not make it across.
 
+i did not use any other projects for assistance and much of the original project made things harder. i did however, share some ideas with my father before coming up with the final design.
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+this project, although inaccurate, if improved could help with basic science and recording the speed of rolling objects.
