@@ -49,7 +49,7 @@ This is the original project that my assesment was based off of.
 
 ## Interaction flowchart ##
 
-![Image](notes1.jpg)
+![Image](notes 1.jpg)
 
 ## Process documentation
 
@@ -67,11 +67,11 @@ the speed gates measure the speed of small objects passing through. the speed ga
 
 ### Showcase image ###
 
-![Image](image1)
-![Image](image2)
-![Image](image3)
-![Image](image4)
-![Image](image5)
+![Image](image1.jpg)
+![Image](image2.jpg)
+![Image](image3.jpg)
+![Image](image4.jpg)
+![Image](image5.jpg)
 
 ### Reflection ###
 
