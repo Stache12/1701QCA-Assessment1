@@ -55,7 +55,7 @@ This is the original project that my assesment was based off of.
 
 The process involved taking the initial project of the timing gates and adjusting it to be more precise and actualy calculate the speed rather than just the time. the speed gates also must be able to calculate the speed of objects other than a car. The initial idea was to use a light sensor to detect when the object goes past. However, the light sensors were also far too inacurate and after going over multiple ideas we finaly came up with a mechanism that might work. it uses buttons instead of light sensors and uses a cut up skewer to reach the button.
 
-![Image](code.png)
+![Image](code.PNG)
 
 ## Project outcome ##
 
