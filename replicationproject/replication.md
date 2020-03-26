@@ -18,33 +18,33 @@ This is the original project that my assesment was based off of.
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Initially I had no idea how complex the processes of desighn could be before.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+After reading, i learned more about the processes of desighn and the things to consider when creating interactive devices. The book detailed the features that are important and the terms used to describe them, such as affordances, signifiers and mapping.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+The book did mention constraints as one of the important features of desighn, however, it did not go into as much detail about it as it did the other features. I am interested to hear more about how constraints are implemented in desighn.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+As for how this relates to the task, taking desighn features into acount is very important for a task such as this. It is important to look at and implement these sorts of features to make the interactive project easier to understand. For example, the timing gates, when either is pressedd, will change the display on the microbit screen, which is an example of feedback.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I did not have much prior knowledge about microinteractions outside of my exposure to microinteractions themself. I didn't realize the impacts that a poorly implemented system can have.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+The reading made me aware of the importance of getting microinteractions right. The example at the start about patron x showed me how import microinterations are and how much a poorly excecuted microinteraction can drastically affect the overall experience.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would be interested in learning more about how to effectively implement microinteractions.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+I am not entirely sure of how many microinteractions are involved in my project, but this reading has definitely encouraged me to look into how I can improve the user experience of my project.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I was aware of the difference between desighners and developers but i do sometimes use the terms interchangeably by accident.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+This was a very interesting story that both subtly shows the stages of developement and provides confidence that coding, while it can be intimedating is extremely satisfying.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+There isn't much about this reading that I need clarification on. However, I am interested in hearing more details about the project they made.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This reading did go over some of the stages of developement which i could use while working on my own project.
 
 
 ## Interaction flowchart ##
