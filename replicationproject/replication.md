@@ -49,7 +49,7 @@ This is the original project that my assesment was based off of.
 
 ## Interaction flowchart ##
 
-![Image](notes 1.jpg)
+![Image](notes1.jpg)
 
 ## Process documentation
 
